@@ -51,3 +51,37 @@ ol {
   clip-path: inset(50%);
   white-space: nowrap;
 }
+
+/* CUSTOM STYLES */
+
+.blur-5 {
+  filter: blur(5px);
+}
+
+.brightness-30 {
+  filter: brightness(30%);
+}
+
+.contrast-100 {
+  filter: contrast(100%);
+}
+
+.grayscale-80 {
+  filter: grayscale(80%);
+}
+
+.hue-rotate-05 {
+  filter: hue-rotate(0.5turn);
+}
+
+.invert-100 {
+  filter: invert(100);
+}
+
+.opacity-40 {
+  filter: opacity(40%);
+}
+
+.opacity-40_blur-5 {
+  filter: opacity(40%) blur(5px);
+}
