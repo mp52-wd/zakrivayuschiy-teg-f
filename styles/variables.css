@@ -12,8 +12,8 @@
     repeating-linear-gradient(to bottom, #e7e7e7 0.01%, #1a1a1a 100%);
   --bg-color: var(--accent-color);
 
-  --ff-main: "Inter-Variable";
-  --ff-accent: "PressStart2P";
+  --ff-main: "Inter-Variable", sans-serif;
+  --ff-accent: "PressStart2P", fantasy;
   --fz-main: 14px;
   --fz-accent: 18px;
   --fw-main: 400;
