@@ -140,7 +140,6 @@
   border: var(--main-border);
   cursor: pointer;
   overflow: hidden;
-  transition: 0.3s ease;
   background-color: var(--accent-color);
   list-style: none;
   transition: box-shadow 0.3s ease;
