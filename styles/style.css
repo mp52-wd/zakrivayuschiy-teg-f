@@ -213,10 +213,8 @@
   align-items: center;
   justify-self: center;
   gap: 8px;
-  margin: 0 auto 100px;
-  padding: 15px 20px;
-  min-block-size: 51px;
-  min-inline-size: 306px;
+  margin-block-end: 105px;
+  padding: 16.5px 21px;
 }
 
 .save-floppy {
